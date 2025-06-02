@@ -1,3 +1,5 @@
+## Name Varun JC
+## Reg no : 212224240179
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 **AIM:**
